@@ -276,6 +276,8 @@ nicks.
 
 Read more about [using Matrix](https://opensource.com/article/17/5/introducing-riot-IRC).
 
+Configure Matrix to [autoidentify your account to IRC services](https://github.com/matrix-org/matrix-appservice-irc/wiki/End-user-FAQ#how-do-i-registeridentify-to-nickserv)
+
 ### Telegram
 
 `tg-ritfoss` bridges to Telegram. Though many clients and bridges for
